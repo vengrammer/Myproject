@@ -1,1 +1,1 @@
-console.log("I dont have a git");
+console.log("I have git at the same time I have a github");
